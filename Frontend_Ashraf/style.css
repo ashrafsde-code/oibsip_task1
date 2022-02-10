@@ -1,0 +1,169 @@
+
+*{
+  box-sizing: border-box;
+
+}
+body{
+  margin: 0px;
+}
+.wrap{
+  position: absolute;
+  top: 10%;
+  right: 10%;
+  transform: translate(-50%,-50%);
+}
+.menu{
+  width: 40px;
+  height: 7px;
+  background-color: #000;
+  margin: 4px 0;
+}
+  .header{  
+    padding: 50px;
+      background-color: rgb(224, 221, 221);
+          }
+          .creative{  
+            padding: 50px;
+              background-color: rgb(224, 221, 221);
+                  }
+.button1  {
+  background-color: rgb(235, 193, 5);
+  padding: 15px 60px;
+  border-radius: 25px;
+  color: black;
+  border:none;
+}
+  .about-us{
+    padding:50px;  
+    background-color:white;
+    text-align: center;
+
+  }
+  .ceo{
+    padding:50px;  
+    text-align: center;
+    color: yellow;
+    background-color: #000;
+      
+  }
+  .ceo h6{
+    text-align: center;
+      color: white
+  }
+  .star{
+      padding: 50px;
+      background-color: white;
+      text-align: center;
+      color:black;
+}
+.star.row{
+    padding: 100px;
+    width: 33%;
+}
+.backrounds{
+    width: 33%;
+    padding: 30px;
+    text-align: center;
+    background-color: yellow;
+    margin: none;
+    border-radius: 0%;
+}
+.brounds{
+    
+    margin: none;
+    border-radius: 0%;
+    border-radius: 0%;
+    background-color: black;
+    padding: 65px 60px;
+    height: 73mm;
+    color: yellow;
+    text-align: center;
+}
+.achievements{
+  padding: 50px;
+  color:white;
+  text-align: center;
+  background-color: #000;
+
+}
+.rows{
+  text-align: center;
+  padding: 50px;
+  background-color: black;
+}
+.row h6{ 
+color: yellow;
+}
+.project{
+  padding: 50px;
+  background-color: yellow;
+  text-align: center;
+  color:black
+}
+.buttons  {
+  background-color: black;
+  padding: 15px 60px;
+  border-radius: 25px;
+  color: yellow;
+  float: right;
+}
+.services{
+  padding:50px;  
+  background-color:rgb(7, 7, 7);
+  text-align: center;
+  color: white;
+
+}
+.selected{
+  padding: 50px;
+  background-color: white;
+  text-align: center;
+  color:black;
+}
+.containerss{
+  
+    padding: 50px;
+    background-color: white;
+    color:black;
+  
+}
+.connected{
+  padding:50px;  
+  background-color:black;
+  text-align: center;
+  color: white;
+
+}
+
+.sicon h4{
+  color: rgb(248, 210, 39);
+  text-align: center;
+}
+.sicon p{
+  color: white;
+  text-align: center;
+  display: inline-block;
+}
+.sicons {
+  height: 99px;
+  width: 99px;
+  background-color: rgb(102, 99, 99);
+  border-radius: 85%;
+  }
+  .positions{
+    text-align: center;
+    color:rgb(248, 210, 39);;
+  
+  }
+  .content{
+    display: inline;
+  }
+  .footer{
+    background-color: #000;
+    color: white;
+    height: 100%;
+    width: 100%;
+    padding: 50px;    
+    text-align: center;
+
+  }
